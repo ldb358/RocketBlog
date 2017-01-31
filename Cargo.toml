@@ -1,0 +1,8 @@
+[package]
+name = "rocket_blog"
+version = "0.1.0"
+authors = ["Lane Breneman <lane@xipiter.com>"]
+
+[dependencies]
+rocket = "0.1.6"
+rocket_codegen = "0.1.6"
