@@ -6,3 +6,7 @@ authors = ["Lane Breneman <lane@xipiter.com>"]
 [dependencies]
 rocket = "0.1.6"
 rocket_codegen = "0.1.6"
+diesel = "0.10.0"
+diesel_codegen = { version = "0.10.0", features = ["postgres"] }
+dotenv = "0.8.0"
+
